@@ -1,6 +1,6 @@
-#  Mean and variance of a discrete  distribution
-
-
+# NAME: THARUN B
+# REG NO: 24002876
+# MEAN AND VARIANCE OF A DISCRETE DISTRIBUTION
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
@@ -48,11 +48,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
-
+![Screenshot 2024-12-18 152401](https://github.com/user-attachments/assets/55e009dd-feb5-49da-8186-48696c3e14b7)
 
 # Output : 
+![Screenshot 2024-12-18 152421](https://github.com/user-attachments/assets/a13b2ccd-7c78-404d-b2e0-c3bfe5569e06)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
